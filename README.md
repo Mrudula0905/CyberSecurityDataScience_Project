@@ -87,6 +87,10 @@ The final ensemble achieved the best performance after threshold tuning:
 - **Precision:** **45.0%**
 - **Leaderboard Rank:** **#3**
 
+<img width="2084" height="731" alt="loss_curves" src="https://github.com/user-attachments/assets/c75e42e0-9d1a-45e4-a54e-5b5530ee0370" />
+
+<img width="860" height="732" alt="confusion_matrix" src="https://github.com/user-attachments/assets/c0848337-4623-480c-bb2f-8655c85ca19a" />
+
 
 ---
 
